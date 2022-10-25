@@ -1,0 +1,18 @@
+The income of the company is: 650.0
+The expenses of the company is: 1700.0
+5 publications of Publication{title='Spiderman', numberofpages=10, pageSize=A1, pageType=NEWSPAPER} for the price of 650.0 were printed.
+The income of the company is: 1300.0
+The expenses of the company is: 2320.0
+5 publications of Publication{title='Spiderman', numberofpages=10, pageSize=A1, pageType=NEWSPAPER} for the price of 650.0 were printed.
+The income of the company is: 650.0
+The expenses of the company is: 1700.0
+5 publications of Publication{title='Spiderman', numberofpages=10, pageSize=A1, pageType=NEWSPAPER} for the price of 650.0 were printed.
+The income of the company is: 1300.0
+The expenses of the company is: 2320.0
+5 publications of Publication{title='Spiderman', numberofpages=10, pageSize=A1, pageType=NEWSPAPER} for the price of 650.0 were printed.
+The income of the company is: 650.0
+The expenses of the company is: 1700.0
+5 publications of Publication{title='Spiderman', numberofpages=10, pageSize=A1, pageType=NEWSPAPER} for the price of 650.0 were printed.
+The income of the company is: 1300.0
+The expenses of the company is: 2320.0
+5 publications of Publication{title='Spiderman', numberofpages=10, pageSize=A1, pageType=NEWSPAPER} for the price of 650.0 were printed.
